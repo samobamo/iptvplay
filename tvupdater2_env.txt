@@ -1,0 +1,3 @@
+EMAIL_USER=google.user.name
+EMAIL_PASS=google.app.key
+EMAIL_TO=destination.email
